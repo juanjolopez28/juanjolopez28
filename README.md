@@ -36,6 +36,7 @@ I am a Data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :zap: In my free time, I learn new things related to technology
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-lopez-956620a9/)
+- :e-mail: You can contact me at: jlopezco@unsa.edu.pe
 
 -----
 
